@@ -1,0 +1,92 @@
+.control-group, select
+{
+text-align: center;
+}
+header
+{
+   text-align: center;
+   border: 5px groove;
+   border-radius: 5px;
+    background-color: white;
+}
+nav
+{
+    border: 3px groove;
+    float: left;
+    border-radius: 10px;
+    width: 150px;
+    margin-top: 100px;
+    margin-left: 50px;
+    background-color: #ADFF2F;
+    margin-bottom: 100px;
+}
+.underline
+{
+    text-decoration: underline;
+    text-align:center;
+    margin-left: 8px;
+}
+th
+{
+   
+    text-align: center;
+    text-decoration: underline;
+}
+td, input
+{
+    text-align: center;
+}
+body
+{
+    background-color: #7FFFD4;
+}
+.article
+{
+    margin-left:485px; 
+}
+.connect{
+    margin-left:575px;
+}
+.img
+{
+    position: center;
+}
+p
+{
+    margin-left: 625px;
+}
+h3
+{
+   margin-left: 475px;
+}
+h5
+{
+    margin-left: 375px;
+}
+h4
+{
+    margin-left:575px;
+}
+vh
+{
+    margin-left: 550px;
+}
+.case2
+{
+    margin-left: 300px;
+}
+
+.justif
+{
+    margin-left: 705px;
+    width: 50px;
+}
+fieldset
+{
+    margin-left: 75px;
+}
+.th
+{
+    background-color: black;
+    color: white;
+}

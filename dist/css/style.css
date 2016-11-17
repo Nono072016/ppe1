@@ -1,0 +1,72 @@
+.control-group, select
+{
+text-align: center;
+}
+header
+{
+   text-align: center;
+   background-color: white;
+}
+
+.underline
+{
+    text-decoration: underline;
+    text-align:center;
+    margin-left: 8px;
+}
+th
+{ 
+    text-align: center;
+    text-decoration: underline;
+}
+td, input
+{
+    text-align: center;
+}
+body
+{
+    background-color: #DCDCDC;
+}
+.article
+{
+   margin-left: 500;
+}
+.connect{
+    margin-left:575px;
+}
+.img
+{
+    position: center;
+}
+p
+{
+    text-align:center;
+}
+h3,h5,h4,h2,h1,h6
+{
+   text-align: center
+}
+
+vh
+{
+    margin-left: 550px;
+}
+.case2
+{
+    margin-left: 200px;
+}
+
+.justif
+{
+    margin-left: 705px;
+    width: 50px;
+}
+.th
+{
+    background-color: #6495ED;
+    color: white;
+}
+span
+{
+    text-align: center;
+}
