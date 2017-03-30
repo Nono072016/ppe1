@@ -5,14 +5,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-function connect(){
-   $dsn= 'mysql:dbname=db554417509;host=db554417509.db.1and1.com;charset=utf8';
-  $user='dbo554417509';
-   $pass='Hinata21';
-    $dbh = new PDO($dsn, $user, $pass, array(PDO::MYSQL_ATTR_INIT_COMMAND => "SET NAMES utf8"));
-    return $dbh;
-
-}
 function connect1(){
     $dsn= 'mysql:dbname=gsb_frais;host=127.0.0.1;charset=utf8';
     $user='usergsb';
